@@ -4,7 +4,7 @@ import threading
 import time
 
 app = Flask(__name__)
-url = "https://example.com"  # Change this to the website you want to call
+url = "https://flask-test-2-38ul.onrender.com/"  # Change this to the website you want to call
 
 def call_website():
     while True:
